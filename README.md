@@ -107,3 +107,5 @@ Analysis identified 125,738 trips with a recorded distance of zero miles. Despit
 Average total charge = $34.30
 Maximum charge = $2,500
 Minimum total amount = -$991
+
+Distance outlier analysis identified multiple trips with recorded distances exceeding 180,000 miles, including a maximum value of 269,097 miles. Despite these extreme distances, the associated fares ranged between $16 and $82, which is inconsistent with normal taxi pricing behavior. These records are likely data-quality anomalies caused by measurement, reporting, or system-recording errors.
