@@ -60,6 +60,18 @@ Taxi operators may benefit from increasing driver availability during peak eveni
 
 Most revenue comes in during the evening rush hour (4 PM–7 PM), while the highest average revenue per trip is seen between 4 AM and 6 AM. This suggests that early-morning trips are less frequent but tend to bring in more revenue per ride.
 
+Premium Long-Haul: $90.44
+Long Distance:     $48.42
+Urban Traveler:    $29.26
+Short Distance:    $19.55
+
+Short Distance      $39.59M
+Urban Traveler      $29.46M
+Long Distance       $26.55M
+Premium Long-Haul   $13.08M
+
+Customer segmentation analysis identified four traveler groups based on trip distance. Short-distance travelers represented the largest segment with over 2 million trips and generated the highest total revenue ($39.6M). However, Premium Long-Haul travelers generated the highest average revenue per trip ($90.44), indicating a distinct high-value customer segment.
+
 
 Finding
 
