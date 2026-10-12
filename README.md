@@ -50,3 +50,10 @@ VS Code
                 └── NYC Taxi Dataset
 
                 "I used Python and Pandas for analysis, working in Jupyter Notebooks within VS Code.
+
+
+ Revenue Analysis Findings
+Revenue peaks during evening rush hours (3 PM-7 PM).
+The highest revenue-generating hour is 6 PM, producing approximately 7.79 million in total trip revenue.
+The same period also records the highest trip volume, indicating strong demand-driven revenue growth.
+Taxi operators may benefit from increasing driver availability during peak evening periods to maximize revenue capture.
