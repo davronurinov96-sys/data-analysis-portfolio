@@ -61,3 +61,8 @@ Taxi operators may benefit from increasing driver availability during peak eveni
 Most revenue comes in during the evening rush hour (4 PM–7 PM), while the highest average revenue per trip is seen between 4 AM and 6 AM. This suggests that early-morning trips are less frequent but tend to bring in more revenue per ride.
 
 
+Finding
+
+Short-distance travelers represent the largest customer segment, accounting for more than 2 million trips.
+
+This suggests NYC taxis are primarily used for relatively short urban journeys.
