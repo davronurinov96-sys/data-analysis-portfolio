@@ -87,3 +87,13 @@ Long Distance: 24.4% of total revenue
 Premium Long-Haul: 12.0% of total revenue
 
 Key Insight: Short-distance trips drive revenue through high volume, while Premium Long-Haul trips generate the highest value per ride.
+
+Payment Type       Trips       Avg Revenue    Total Revenue
+----------------------------------------------------------
+Credit Card      2,249,747        29.61          66.6M
+Cash               314,043        23.41           7.4M
+No Charge           16,641         8.93           0.1M
+Dispute             56,400         1.70           0.1M
+Flex Fare        1,088,058        31.68          34.5M
+
+Credit card payments dominate the business, generating 66.6M in revenue with a higher average trip value (29.61) than cash payments (23.41). Flex Fare trips also represent a significant revenue source, contributing 34.5M across 1.09 million trips. Payment exceptions such as No Charge and Dispute transactions contribute only a small fraction of total revenue, indicating that the vast majority of business activity comes from standard customer-paid trips. Payment type codes are defined by the Yellow Taxi Trip Records data dictionary as: 0 = Flex Fare, 1 = Credit Card, 2 = Cash, 3 = No Charge, 4 = Dispute.
