@@ -57,3 +57,7 @@ Revenue peaks during evening rush hours (3 PM-7 PM).
 The highest revenue-generating hour is 6 PM, producing approximately 7.79 million in total trip revenue.
 The same period also records the highest trip volume, indicating strong demand-driven revenue growth.
 Taxi operators may benefit from increasing driver availability during peak evening periods to maximize revenue capture.
+
+Most revenue comes in during the evening rush hour (4 PM–7 PM), while the highest average revenue per trip is seen between 4 AM and 6 AM. This suggests that early-morning trips are less frequent but tend to bring in more revenue per ride.
+
+
