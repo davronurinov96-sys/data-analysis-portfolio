@@ -41,3 +41,12 @@ Applying my fintech and compliance background to data-focused projects
 My goal is to combine my experience in fintech, banking, and compliance with technical skills in Python, SQL, and data analysis.
 
 I'm particularly interested in data-focused and technology-driven roles within financial services, where I can use both my domain knowledge and technical skills to solve practical problems.
+
+
+VS Code
+ └── Jupyter Notebook (.ipynb)
+      └── Python 3.11
+           └── Pandas
+                └── NYC Taxi Dataset
+
+                "I used Python and Pandas for analysis, working in Jupyter Notebooks within VS Code.
