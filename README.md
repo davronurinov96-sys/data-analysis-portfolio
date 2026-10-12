@@ -102,3 +102,8 @@ Credit card payments dominate the business, generating 66.6M in revenue with a h
 Revenue efficiency analysis revealed that Short Distance travelers are the most profitable segment on a per-mile basis, generating 18.52 revenue per mile. In contrast, Premium Long-Haul travelers generate the highest revenue per trip ($90.44) but the lowest revenue efficiency (0.92 per mile). Overall, revenue efficiency decreases as trip distance increases, indicating that shorter trips deliver greater value relative to distance traveled.
 
 Analysis identified 125,738 trips with a recorded distance of zero miles. Despite reporting no travel distance, these trips generated an average fare of $27.97 and an average total charge of $34.30. The dataset also contains extreme values, including fares ranging from -$990 to $2,500 and tips ranging from -$20 to $489.99. These observations suggest that many zero-distance trips are not simple cancellations and may represent billing adjustments, special fare cases, system-recording issues, or other operational anomalies requiring further investigation.
+
+125,738 zero-distance trips
+Average total charge = $34.30
+Maximum charge = $2,500
+Minimum total amount = -$991
