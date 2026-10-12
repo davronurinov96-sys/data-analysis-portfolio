@@ -78,3 +78,12 @@ Finding
 Short-distance travelers represent the largest customer segment, accounting for more than 2 million trips.
 
 This suggests NYC taxis are primarily used for relatively short urban journeys.
+
+Revenue by Traveler Segment
+
+Short Distance: 36.4% of total revenue (largest contributor)
+Urban Traveler: 27.1% of total revenue
+Long Distance: 24.4% of total revenue
+Premium Long-Haul: 12.0% of total revenue
+
+Key Insight: Short-distance trips drive revenue through high volume, while Premium Long-Haul trips generate the highest value per ride.
