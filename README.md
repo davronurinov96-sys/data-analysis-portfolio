@@ -109,3 +109,25 @@ Maximum charge = $2,500
 Minimum total amount = -$991
 
 Distance outlier analysis identified multiple trips with recorded distances exceeding 180,000 miles, including a maximum value of 269,097 miles. Despite these extreme distances, the associated fares ranged between $16 and $82, which is inconsistent with normal taxi pricing behavior. These records are likely data-quality anomalies caused by measurement, reporting, or system-recording errors.
+
+⭐⭐⭐⭐⭐ Strongest
+
+✅ Impossible trip distances (up to 269,097 miles)
+
+⭐⭐⭐⭐⭐
+
+✅ 125,738 zero-distance trips generating an average total charge of $34.30
+
+⭐⭐⭐⭐
+
+✅ ~40,000 negative fare/total transactions
+
+⭐⭐⭐⭐
+
+✅ Zero-distance trips with charges up to $2,500
+
+⭐⭐⭐
+
+✅ Missing values
+
+Analysis of the largest negative transactions revealed that many records mirror the highest positive transactions with identical trip distances and opposite financial amounts. This pattern suggests that a significant portion of negative fare records represent transaction reversals, refunds, or accounting adjustments rather than data-entry errors.
